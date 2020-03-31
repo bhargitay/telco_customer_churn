@@ -1,6 +1,6 @@
 # Telco Customer Churn 
 
-![Customer churn](img/cust_churn.png)
+![Customer churn](img/cust_churn.png)<br> 
 [Image source](https://medium.com/@Experfy/building-predictive-models-for-customer-churn-in-telecom-4864d759ebf8)
 
 Customer churn is critical for all kind of companies. My project's aim is to show a solution for a telco company's customer churn modelling. 
