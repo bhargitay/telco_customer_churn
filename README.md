@@ -66,7 +66,6 @@ of the customer base according to the model's scores (for example for campaigns)
 The most important variables based on the variable importance:
 
 ![Variable importance](img/gbm_variable_importance.png)
-<<<<<<< HEAD
 
 ## Package versions
 
@@ -79,5 +78,3 @@ numpy                  1.18.1
 pandas                 1.0.3
 seaborn                0.10.1
 ```
-=======
->>>>>>> 82fa74a892628c9e965265fdb154640012a35d20
