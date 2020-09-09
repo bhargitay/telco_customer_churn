@@ -19,19 +19,6 @@ The result (the scores) of the developed model could be used for campaign activi
 | utils.py | A collection of functions used during the modelling process. |
 
 
-## Technical details
-This project was developed with Python 3.8.2. 
-
-Package versions:
-
-| package | version |
-|---|---|
-| numpy |  1.18.1 |
-| pandas |  1.0.3 |
-| h2o  | 3.28.1.2  |
-| searborn  |  1.10.0 |
-| matplotlib|  3.2.1   |
-
 ## Dataset
 The original dataset can be found on [Kaggle](https://www.kaggle.com/blastchar/telco-customer-churn).
 
@@ -79,3 +66,15 @@ of the customer base according to the model's scores (for example for campaigns)
 The most important variables based on the variable importance:
 
 ![Variable importance](img/gbm_variable_importance.png)
+
+## Package versions
+
+```
+Package                Version
+---------------------- -------------------
+h2o                    3.28.1.2
+matplotlib             3.2.1
+numpy                  1.18.1
+pandas                 1.0.3
+seaborn                0.10.1
+```
