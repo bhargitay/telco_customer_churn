@@ -58,7 +58,7 @@ The original dataset can be found on [Kaggle](https://www.kaggle.com/blastchar/t
 
 If we want to use the best model from the developed for CRM activity, we can catch
 - the 29% of all churning customers with selecting only the TOP 10% and
-- the 50% with selecting the TOP 20% >br@ 
+- the 50% with selecting the TOP 20% <br>
 of the customer base according to the model's scores (for example for campaigns).
 
 ## Variable importance
@@ -66,6 +66,7 @@ of the customer base according to the model's scores (for example for campaigns)
 The most important variables based on the variable importance:
 
 ![Variable importance](img/gbm_variable_importance.png)
+<<<<<<< HEAD
 
 ## Package versions
 
@@ -78,3 +79,5 @@ numpy                  1.18.1
 pandas                 1.0.3
 seaborn                0.10.1
 ```
+=======
+>>>>>>> 82fa74a892628c9e965265fdb154640012a35d20
